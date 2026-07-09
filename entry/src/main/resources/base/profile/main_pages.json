@@ -1,0 +1,11 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/Login",
+    "pages/Register",
+    "pages/NoteList",
+    "pages/NoteEdit",
+    "pages/Settings",
+    "pages/VoiceNoteRecorder"
+  ]
+}
