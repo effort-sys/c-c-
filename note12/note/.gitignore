@@ -1,0 +1,20 @@
+# 工具缓存
+/.hvigor/
+/.cxx
+/.clangd
+/.clang-format
+/.clang-tidy
+**/.test
+/.appanalyzer.codegenie/
+
+# 项目构建配置屏蔽
+**/build-profile.json5
+**/code-linter.json5
+**/obfuscation-rules.txt
+**/local.properties
+
+# 鸿蒙依赖缓存（建议一并屏蔽）
+oh_modules/
+.hvigor/cache/
+entry/build/
+entry/.preview/
